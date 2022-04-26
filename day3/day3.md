@@ -74,6 +74,14 @@ I will explain Object's; Classes in next blog.
 
 share with me if any thing is missing or you dont' understand; dont' shy 🥺
 
+ping me on **Twitter** 🕊️ [`@Abhayprajapati_`](https://twitter.com/Abhayprajapati_)
 
 Check the code for today here.
-[`Repo`]()
+[`Repo`](   )
+
+
+
+
+**🤝🏾Connect me on:**
+**Twitter**: 🕊️[`@Abhayprajapati_`](https://twitter.com/Abhayprajapati_)
+**Github**: 🐧[`@theabhayprajapati`](https://github.com/theabhayprajapati)

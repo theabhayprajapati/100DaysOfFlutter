@@ -22,16 +22,23 @@ void main() {
 
   int realAge = age ?? ag;
 
-    List<String>? names5 = null;
-    print(names5?.length);
-    // check if names5 is null or not
-    // if it is null then print 0
-    // if it is not null then print the length of the list
+  List<String>? names5 = null;
+  print(names5?.length);
+  // check if names5 is null or not
+  // if it is null then print 0
+  // if it is not null then print the length of the list
 
-    if(names5 != null) {
-      print(names5.length);
-    } else {
-      print("null");
-    }
-    
+  if (names5 != null) {
+    print(names5.length);
+  } else {
+    print("null");
+  }
+  // shortcut  ^
+  if (names5 != null) {
+    print(names5.length);
+  } else {
+    print("null");
+  }
+
+// print(Person?.skills?.length);✅
 }
