@@ -1,20 +1,7 @@
 void main(List<String> args) {
   print('Hello world!');
-  // make enum
-  // make class color
-  // make class car
 
-  var name = "hello";
-  print(name);
-  print(Gfg.values);
-  print(name.runtimeType);
-  print(Human.values);
-  void animals(Human human) {
-    print(human.name);
-  }
-
-  animals(Human.values[0]);
-  // this is instance of Insan
+  //? this is instance of Insan
   Insan Abhay = new Insan("Abhay", 19);
   // print(Abhay.name);
   // print(Abhay.age);
@@ -30,13 +17,11 @@ void main(List<String> args) {
   List<Insan> human = [Abhay, arin];
   print(human);
   print(Abhay);
+  //? to access the values inside the List use this.
   print(human[0].age);
-  
 }
 
-// abstract classes is there so that other classes can use it's methods; these classes cannot be initialized.
-
-// check Factory constructor's:
+// This is Class Of Living things.
 class LivingThings {
   void breathe() {
     print("breathe...");
@@ -48,38 +33,12 @@ class LivingThings {
 }
 
 class Insan extends LivingThings {
-  final String name;
+  String name;
   Insan(this.name, this.age);
   int age;
-  void eat() {
-    print("Insan is eating");
-  }
-
-  // swim
-  // fly
+  //? even through we havn't specify the function of breathe() and eat()
+  // ? It has does featues because of extends.
   void fly() {
     print("Insan is flying");
   }
 }
-
-// enums should be created outside of main;
-enum Gfg {
-  // Inserting data
-  Welcome,
-  to,
-  GeeksForGeeks
-}
-
-enum Human { name, skill, vision }
-
-// classes
-
-// constructors
-// getters and setters
-// methods
-// static methods
-// static variables
-// inheritance
-// abstract classes
-// abstract methods
-// mixins
