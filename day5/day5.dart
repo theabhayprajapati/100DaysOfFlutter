@@ -3,10 +3,14 @@ void main(List<String> args) async {
   Human Abhay = Human('Abhay', 19);
   Abhay.sayHello();
   Abhay.breathe();
-  var result = await MultiplyComplex(2);
-  print(result);
   print("Indian Rupee: ");
   print("indai");
+  int a = 12;
+  int b = 13;
+  print(a & b);
+  print(a | b)  ;
+  print(a > b);
+  print(b > a);
 }
 
 // class of human
@@ -35,18 +39,4 @@ int MultiplybyTwo(int number) {
 Future<int> MultiplybyTwoAsync(int number) async {
   print(number * 2);
   return number * 2;
-}
-
-Future<int> MultiplyComplex(int a) {
-  return Future.delayed(const Duration(seconds: 2), () {
-    return a * 2;
-  });
-}
-// make a function which takes 10 sec and returns multiples
-// of 2
-
-Future<int> MultiplyComplexAsync(int a) async {
-  return await Future.delayed(const Duration(seconds: 2), () {
-    return a * 2;
-  });
 }
