@@ -6,7 +6,7 @@
 
 This line wiil be spoken as List of String named skills has values Swiming running Karate; you can also use your own way of reading and pro-nounching it.
 
-List can also be called as `array`.
+`List` can also be called as `array`.
 
 a List can contain only one data type of element.
 for mutliple type of element we can use something called as Objects in the list.
@@ -28,7 +28,8 @@ Now I can use this data types to make own variables with this data types.
 
 as before Insan is the type of variable, Abhay is the variable name 🆕 key word is for before it is new Variables made which has combination of data types/ mostly new key used when for a single variables we use mutilple dataytypes. Like, here we are using String and int at the same time passing the parameter's in the Class
   
-# Objects: Objects gives ability to make the variables the classes we make, in reality anything that takes place, area, **memory** is a Objects as the Variable named **Abhay** which is created above is going to take place in the memory then it is an Object, Object have type can your own type also, Like **Insan**
+## Objects: Objects gives ability to make the variables the classes we make,
+in reality anything that takes place, area, **memory** is a Objects as the Variable named **Abhay** which is created above is going to take place in the memory then it is an Object, Object have type can your own type also, Like **Insan**
 
 ```dart
   Insan Abhay = new Insan("Abhay", 19);
