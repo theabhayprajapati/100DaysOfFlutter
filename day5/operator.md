@@ -79,4 +79,6 @@ Here the child dont' want both thing from you he only even if you don't give any
 [`credits to : Isaac Computer Science`](https://isaaccomputerscience.org/concepts/sys_bool_logic_gates?examBoard=all&stage=all&topic=boolean_logic)
 
 
-Repo: [@Day5](
+Repo: [`@Day5 Blog `](https://github.com/theabhayprajapati/100DaysOfFlutter/blob/main/day5/operator.md)
+
+ping 🤙🏾 me on twitter [`@abhayprajapati`](https://twitter.com/abhayprajapati_)
