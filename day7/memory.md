@@ -58,8 +58,9 @@ And these are the **storage devices** great storage capacity, it has mutilple fa
 these all I knew about memory and storage, and that i wanted to share, if you want learn memory I would recommend you to read the article from [@Issac_Computer_Science](https://isaaccomputerscience.org/topics/memory_and_storage?examBoard=all&stage=all)
 
 images credits: **icons8.com**
+
 suggest edit✍🏾
-[@repo](github.com/theabhayprajapati)
+[@repo](https://github.com/theabhayprajapati/100DaysOfFlutter/blob/main/day7/memory.md)
 
 ping me 🤙🏾on [@twitter/abhayprajapati_](https://twitter.com/abhayprajapati_)
 
